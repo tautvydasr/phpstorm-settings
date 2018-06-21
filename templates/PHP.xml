@@ -1,0 +1,10 @@
+<templateSet group="PHP">
+  <template name="test" value="public function test$NAME$($PARAMETERS$): void&#10;{&#10;    $END$&#10;}" description="Create php unit test method" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="rc" value="Write rc" description="" toReformat="false" toShortenFQNames="true" />
+</templateSet>
