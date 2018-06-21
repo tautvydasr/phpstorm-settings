@@ -1,7 +1,0 @@
-<templateSet group="PHP">
-  <template name="test" value="public function test$END$(): void&#10;{&#10;&#10;}" description="" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-</templateSet>
