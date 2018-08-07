@@ -11,4 +11,10 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="rcf" value="import React from &quot;react&quot;;&#10;import PropTypes from &quot;prop-types&quot;;&#10;&#10;const $COMPONENT$ = ({}) =&gt; (&#10;  &lt;div&gt;&#10;    &#10;  &lt;/div&gt;&#10;);&#10;&#10;$COMPONENT$.propTypes = {&#10;  &#10;};&#10;&#10;$COMPONENT$.defaultProps = {&#10;  &#10;};&#10;&#10;export default $COMPONENT$;" description="Create functional react component stub" toReformat="false" toShortenFQNames="true">
+    <variable name="COMPONENT" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
