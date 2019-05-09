@@ -1,0 +1,12 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/chrome" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/typescript-deferred" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
