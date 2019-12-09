@@ -1,23 +1,21 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="link" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="cache" type="PLAIN_TEXT" />
       <mapping pattern="webdocker" type="PLAIN_TEXT" />
       <mapping pattern="phpdocker" type="PLAIN_TEXT" />
       <mapping pattern="failing" type="PLAIN_TEXT" />
       <mapping pattern="builders" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="builders_published_designs" type="PLAIN_TEXT" />
       <mapping pattern="live" type="PLAIN_TEXT" />
       <mapping pattern="sdf" type="PLAIN_TEXT" />
-      <mapping pattern="builders_published_designs" type="PLAIN_TEXT" />
       <mapping pattern="failed" type="PLAIN_TEXT" />
       <mapping pattern="tst" type="PLAIN_TEXT" />
-      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
